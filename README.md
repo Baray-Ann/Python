@@ -29,7 +29,6 @@
 
 ## [Python 黑魔法](https://github.com/injetlee/Python/tree/master/Python%20%E9%BB%91%E9%AD%94%E6%B3%95)
 
-- ### Python 远程关机
 
 ## SQL 数据库
 
